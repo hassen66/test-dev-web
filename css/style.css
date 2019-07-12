@@ -289,3 +289,9 @@ body {
         height: 80px;
     }
 }
+
+@media (max-width: 767px) {
+    .aside{
+        padding-bottom: 10px;
+    }
+}
