@@ -288,10 +288,16 @@ body {
     .header .navbar{
         height: 80px;
     }
+
+   
 }
 
 @media (max-width: 767px) {
     .aside{
+        padding-bottom: 10px;
+    }
+
+    .row > .col-md-7{
         padding-bottom: 10px;
     }
 }
